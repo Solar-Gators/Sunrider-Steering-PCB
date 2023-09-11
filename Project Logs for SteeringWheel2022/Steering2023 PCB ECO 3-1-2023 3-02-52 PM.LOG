@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=BTN6 Pin=J5-1
+Removed Pin From Net: NetName=BTN7 Pin=J5-3
+Removed Pin From Net: NetName=BTN9 Pin=J5-7
+Removed Pin From Net: NetName=BTN10 Pin=J5-9
+Added Pin To Net: NetName=BTN10 Pin=J5-1
+Added Pin To Net: NetName=BTN9 Pin=J5-3
+Added Pin To Net: NetName=BTN7 Pin=J5-7
+Added Pin To Net: NetName=BTN6 Pin=J5-9
+Added Member To Class: ClassName=Steering Member=Component J3 43650-0900
+Added Member To Class: ClassName=Steering Member=Component J6 43650-0200
+Added Room: Name=Steering

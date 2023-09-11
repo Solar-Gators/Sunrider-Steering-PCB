@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DPLUS_USB Pin=D3-1
+Removed Pin From Net: NetName=DMINUS_USB Pin=D3-3
+Removed Pin From Net: NetName=DMINUS Pin=D3-4
+Removed Pin From Net: NetName=DPLUS Pin=D3-6
+Added Pin To Net: NetName=DMINUS_USB Pin=D3-1
+Added Pin To Net: NetName=DPLUS_USB Pin=D3-3
+Added Pin To Net: NetName=DPLUS Pin=D3-4
+Added Pin To Net: NetName=DMINUS Pin=D3-6
+Added Room: Name=Steering

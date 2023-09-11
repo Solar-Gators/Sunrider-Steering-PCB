@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=Q3 Old Footprint=SOT95P237X125-3N New Footprint=SOT95P280X125-3N
+Change Component Comment : Designator=Q3 Old Comment=2N7002K-TP New Comment=AO3400A
+Change component parameters: Designator = "Q3"; Footprint = "SOT95P280X125-3N"; UniqueID = "\FNUGYGHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "AO3400A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ao3400a/alpha-and-omega-semiconductor?region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://aosmd.com/res/data_sheets/AO3400A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Alpha & Omega Semiconductors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AO3400A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Steering

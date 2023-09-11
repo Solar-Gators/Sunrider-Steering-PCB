@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=CANL Pin=J3-4
+Removed Pin From Net: NetName=CANH Pin=J3-5
+Removed Pin From Net: NetName=12V Pin=J3-7
+Removed Member From Class: ClassName=Steering Member=J7
+Change Component Designator: OldDesignator=J3 NewDesignator=MAIN
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=SPKR
+Added Pin To Net: NetName=CANL Pin=MAIN-3
+Added Pin To Net: NetName=CANH Pin=MAIN-4
+Added Pin To Net: NetName=+5 Pin=MAIN-5
+Added Pin To Net: NetName=DMINUS Pin=MAIN-6
+Added Pin To Net: NetName=DPLUS Pin=MAIN-7
+Added Member To Class: ClassName=Steering Member=Component C11 CL21A106KAYNNNE
+Added Member To Class: ClassName=Steering Member=Component C12 CL21A226MAQNNNE
+Added Member To Class: ClassName=Steering Member=Component C13 CL21A106KAYNNNE
+Added Member To Class: ClassName=Steering Member=Component C14 CL21A226MAQNNNE
+Added Member To Class: ClassName=Steering Member=Component MAIN 43650-0900
+Added Member To Class: ClassName=Steering Member=Component Q2 DMP3020LSS-13
+Added Member To Class: ClassName=Steering Member=Component  801-87-020-10-012101
+Added Member To Class: ClassName=Steering Member=Component U1 TPS629206QDRLRQ1
+Added Member To Class: ClassName=Steering Member=Component U2 TPS629206QDRLRQ1
+Added Member To Class: ClassName=Steering Member=Component U3 TCAN1042DRQ1
+Added Room: Name=Steering

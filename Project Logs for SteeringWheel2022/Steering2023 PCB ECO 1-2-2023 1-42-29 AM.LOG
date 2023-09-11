@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=LS1 NewDesignator=SPKR
+Change Net Name : Old Net Name=NetLS1_2 New Net Name=NetR5_1
+Added Room: Name=Steering
